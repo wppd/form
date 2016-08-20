@@ -1,0 +1,16 @@
+{
+    "name": "wppd/form",
+    "description": "generate a form view based on user input",
+    "type": "library",
+    "require": {
+        "laravelcollective/html": "dev-master",
+        "illuminate/support": "5.*",
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wppd",
+            "email": "noway@gmail.com"
+        }
+    ]
+}

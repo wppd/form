@@ -1,0 +1,4 @@
+<div class="form-group">
+    <label>{label}</label>
+    {!! Form::number('{name}', null, ['class' => 'form-control', 'step' => 'any']) !!}
+</div>

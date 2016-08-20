@@ -1,0 +1,4 @@
+{!! Form::model(${model}, ['route' => ['{route}', ${model}->id], 'files' => true]) !!}
+{fields}
+{!! Form::close() !!}
+

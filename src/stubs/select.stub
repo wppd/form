@@ -1,0 +1,4 @@
+<div class="form-group">
+<label>{label}</label>
+{!! Form::select('{name}', ['something' => 'else'], null, ['class' => 'form-control']) !!}
+</div>

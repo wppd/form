@@ -1,0 +1,5 @@
+<div class="radio">
+  <label class="form-check-label">
+    {!! Form::radio('{name}') !!} {label}
+  </label>
+</div>
