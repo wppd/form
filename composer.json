@@ -12,5 +12,11 @@
             "name": "wppd",
             "email": "noway@gmail.com"
         }
-    ]
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Wppd\\Form\\": "src"
+        }
+    }
 }
