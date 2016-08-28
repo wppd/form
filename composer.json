@@ -3,7 +3,7 @@
     "description": "generate a form view based on user input",
     "type": "library",
     "require": {
-        "laravelcollective/html": "dev-master",
+        "laravelcollective/html": "5.*",
         "illuminate/support": "5.*"
     },
     "license": "MIT",
